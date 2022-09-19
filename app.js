@@ -11,3 +11,4 @@ app.listen(port, () => {
 })
 aaa.list
 gpp1001moduleA.list
+gpp1001moduleB.list
