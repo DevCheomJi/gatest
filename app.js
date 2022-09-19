@@ -10,3 +10,5 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 aaa.list
+gpp1001moduleA.list
+gpp1001moduleB.list
