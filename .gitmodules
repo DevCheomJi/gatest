@@ -1,0 +1,3 @@
+[submodule "gatestSubModule"]
+	path = gatestSubModule
+	url = https://github.com/DevCheomJi/gatestSubModule.git
